@@ -59,7 +59,7 @@ img{
 
 input{
     /* border: 1px solid black; */
-    width: 90%;
+    width: 90px;
     all: unset;
     border: none;
 }
